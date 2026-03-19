@@ -17,12 +17,5 @@
 - 1.Encuadre: presentación, expectativas y seguridad.
 - [2.¿Qué es la electrónica? conceptos básicos, corriente y voltaje.](./ConceptosBasicos.md)
 - [3.Componentes electrónicos: resistencias, LEDs, protoboard.](./ComponentesElectronicos.md)
-- 4.Primer circuito: ley de Ohm. 
-- 5.Introducción a Arduino: placa, entradas y salidas. 
-- 6.Programación básica: mBlock. 
-- 7.Señales digitales y analógicas.
-- 8.Sensores: lectura de datos.
-- 9.Integración de sistemas: hardware + software.
-- 10.Diseño del proyecto: idea a solución. 
-- 11.Pruebas y depuración.
-- 12.Presentación final: demostración funcional.
+- [4.Primer circuito: ley de Ohm.](./LeyDeOhm.md)
+- [5.Introducción a Arduino: placa, entradas y salidas.](./ArduinoIntroduccion.md)

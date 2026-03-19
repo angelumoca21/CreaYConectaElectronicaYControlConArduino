@@ -49,4 +49,5 @@ Instrucciones:
 - Cierra el camino: Conecta un cable desde la pata corta del LED hasta el riel negativo (-).
 
 Tu circuito representa el siguiente diagrama, analizalo para entenderlo. 
+
 ![Reto2](./images/reto2.png)
