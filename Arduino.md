@@ -1,0 +1,3 @@
+- **El "Dimer" de Colores (Mezcladora Analógica)**
+- **Contador de clics al botón**
+- **Doble semáforo**

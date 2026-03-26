@@ -132,6 +132,14 @@ Es una resistencia cuyo valor podemos cambiar manualmente girando una perilla.
 - Dato Clave: Tiene 3 patas. Las de los extremos van a la energía (5V y GND) y la del centro envía la señal de "posición" al Arduino.
 - Analogía: Es como la perilla del volumen de un radio o el control de velocidad de un ventilador.
 
+**💬 El Monitor Serie: ¿Cómo nos habla el robot?**
+Imagina que tu Arduino está trabajando muy duro, midiendo la luz o contando clics, pero como no tiene boca ni pantalla, no puede decirte qué está pasando. El Monitor Serie es como una ventana de chat secreta en tu computadora donde Arduino puede escribirte mensajes.
+
+¿Para qué sirve?
+- Para espiar sus sensores: Podemos pedirle que nos diga cuánta luz detecta o qué distancia mide.
+- Para encontrar errores (Debugging): Si algo no funciona, el robot nos puede escribir: "Llegué a esta parte del código, pero el botón no responde".
+- Para ver nuestras variables: Podemos ver cómo crecen o cambian los números que guardamos en nuestras "cajas mágicas".
+
 ### Conexión física
 
 ![ConexionFisica](https://github.com/angelumoca21/TallerArduinoPILARES/blob/main/Potenciometro/imagenes/potenciometro.png)
